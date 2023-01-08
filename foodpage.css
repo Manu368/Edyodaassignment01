@@ -35,3 +35,17 @@
     width: 500px;
     height: 500px;
 }
+
+a:hover {
+    color: black;
+}
+a:link {
+    color: black;
+}
+a:visited {
+    color: black;
+}
+a:active {
+    color:black
+}
+
